@@ -3,4 +3,4 @@
 <div align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/ravindu01manoj/Deploy-Sew-m.git"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="300" ></a></div>
 
 ***
-# Link - https://dashboard.heroku.com/new?template=https://github.com/ravindu01manoj/Deploy-Sew-m.git
+# Link - https://dashboard.heroku.com/new?template=https://github.com/pahan78/Deploy-Sew-m.git
